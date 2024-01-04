@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = mauriac.antoine@gmail.com
-	name = antoine mauriac
+	email = mauriac
+	name = antoine
